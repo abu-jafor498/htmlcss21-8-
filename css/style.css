@@ -1,0 +1,65 @@
+/*COMMENTS*/
+.page1{
+    background-color: aquamarine;
+    color: black;
+}
+
+.page1 p {
+    font-size: 20px;
+}
+ head{
+    text-align: center;
+}
+
+footer{
+    font-size: 25px;
+}
+a, ins{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+.ab1{
+    background-color: aquamarine;
+    color: black;
+}
+.signup {
+    background-color: aquamarine;
+    color: black;
+    
+}
+.service{
+    background-color: aquamarine;
+    color: black;
+}
+
+.service .ser1{
+    font-size: 25px;
+    line-height: 30px;
+}
+strong{
+    font-size: medium;
+}
+.wrapper{
+    width:300px;
+    overflow: hidden;
+}
+
+label{
+    font-size: 25px;
+    color: black;
+}
+
+.first_name, .last_name, .email_address, .user_name, .password{
+    width: 70%;
+    height: 25px;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid blue;
+    border-radius: 50px;
+    overflow: hidden;
+    background-color: azure;
+}
+submit{
+    padding-top: 5px;
+}
